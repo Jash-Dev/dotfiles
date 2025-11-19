@@ -1,0 +1,14 @@
+2025/11/14-17:48:25.083 6ef Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tensor.art_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-17:48:25.084 6ef Recovering log #168
+2025/11/14-17:48:25.084 6ef Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tensor.art_0.indexeddb.leveldb/000168.log 
+2025/11/14-17:48:25.084 6ef Delete type=2 #166
+2025/11/14-17:48:25.096 6fe Level-0 table #173: started
+2025/11/14-17:48:25.100 6fe Level-0 table #173: 645 bytes OK
+2025/11/14-17:48:25.105 6fe Delete type=0 #168
+2025/11/14-17:48:25.105 6ef Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at '\x00,\x00\x00\x05' @ 859 : 1
+2025/11/14-17:48:25.105 6ef Compacting 1@0 + 1@1 files
+2025/11/14-17:48:25.107 6ef Generated table #174@0: 8 keys, 621 bytes
+2025/11/14-17:48:25.108 6ef Compacted 1@0 + 1@1 files => 621 bytes
+2025/11/14-17:48:25.112 6ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/14-17:48:25.112 6ef Delete type=2 #173
+2025/11/14-17:48:25.113 6ef Manual compaction at level-0 from '\x00,\x00\x00\x05' @ 859 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)

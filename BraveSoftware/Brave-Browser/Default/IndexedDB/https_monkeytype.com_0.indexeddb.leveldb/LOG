@@ -1,0 +1,13 @@
+2025/11/15-11:04:40.344 74d Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/15-11:04:40.344 74d Recovering log #4
+2025/11/15-11:04:40.344 74d Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000004.log 
+2025/11/15-11:04:40.425 74c Level-0 table #8: started
+2025/11/15-11:04:40.428 74c Level-0 table #8: 5212 bytes OK
+2025/11/15-11:04:40.433 74c Delete type=0 #4
+2025/11/15-11:04:40.433 74c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/15-11:45:00.916 740 Compacting 1@1 + 1@2 files
+2025/11/15-11:45:00.920 740 Generated table #9@1: 53 keys, 3813 bytes
+2025/11/15-11:45:00.920 740 Compacted 1@1 + 1@2 files => 3813 bytes
+2025/11/15-11:45:00.926 740 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/15-11:45:00.926 740 Delete type=2 #8
+2025/11/15-11:45:00.926 740 Delete type=2 #5

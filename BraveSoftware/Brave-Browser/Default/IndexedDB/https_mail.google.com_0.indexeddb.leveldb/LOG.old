@@ -1,0 +1,12 @@
+2025/11/18-07:32:55.218 d2dac Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/18-07:32:55.218 d2dac Recovering log #23
+2025/11/18-07:32:55.220 d2dac Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
+2025/11/18-07:32:57.903 d2dac Compacting 1@1 + 1@2 files
+2025/11/18-07:32:57.913 d2dac Generated table #26@1: 72 keys, 138505 bytes
+2025/11/18-07:32:57.913 d2dac Compacted 1@1 + 1@2 files => 138505 bytes
+2025/11/18-07:32:57.921 d2dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/18-07:32:57.921 d2dac Delete type=2 #24
+2025/11/18-07:32:57.921 d2dac Delete type=2 #21
+2025/11/18-07:33:10.143 d2dae Level-0 table #28: started
+2025/11/18-07:33:10.155 d2dae Level-0 table #28: 3223572 bytes OK
+2025/11/18-07:33:10.160 d2dae Delete type=0 #23

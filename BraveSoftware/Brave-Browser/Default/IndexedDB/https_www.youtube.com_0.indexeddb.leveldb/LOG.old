@@ -1,0 +1,80 @@
+2025/11/17-16:29:31.139 e84 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-16:29:31.139 e84 Recovering log #147
+2025/11/17-16:29:31.147 e84 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000147.log 
+2025/11/17-16:29:31.147 e84 Delete type=2 #146
+2025/11/17-16:29:31.147 e84 Delete type=2 #148
+2025/11/17-16:29:34.162 e85 Level-0 table #153: started
+2025/11/17-16:29:34.168 e85 Level-0 table #153: 1334836 bytes OK
+2025/11/17-16:29:34.174 e85 Delete type=0 #147
+2025/11/17-16:29:34.407 e95 Compacting 1@1 + 1@2 files
+2025/11/17-16:29:34.412 e95 Generated table #154@1: 1421 keys, 154841 bytes
+2025/11/17-16:29:34.412 e95 Compacted 1@1 + 1@2 files => 154841 bytes
+2025/11/17-16:29:34.417 e95 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-16:29:34.417 e95 Delete type=2 #153
+2025/11/17-16:29:34.417 e95 Delete type=2 #150
+2025/11/17-16:32:42.365 e85 Level-0 table #156: started
+2025/11/17-16:32:42.374 e85 Level-0 table #156: 1210843 bytes OK
+2025/11/17-16:32:42.381 e85 Delete type=0 #152
+2025/11/17-16:45:11.885 e84 Compacting 1@1 + 1@2 files
+2025/11/17-16:45:11.890 e84 Generated table #157@1: 1431 keys, 132702 bytes
+2025/11/17-16:45:11.890 e84 Compacted 1@1 + 1@2 files => 132702 bytes
+2025/11/17-16:45:11.895 e84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-16:45:11.895 e84 Delete type=2 #154
+2025/11/17-16:45:11.895 e84 Delete type=2 #156
+2025/11/17-17:09:37.520 e85 Level-0 table #159: started
+2025/11/17-17:09:37.526 e85 Level-0 table #159: 977396 bytes OK
+2025/11/17-17:09:37.531 e85 Delete type=0 #155
+2025/11/17-17:09:58.062 e85 Compacting 1@1 + 1@2 files
+2025/11/17-17:09:58.067 e85 Generated table #160@1: 1455 keys, 136112 bytes
+2025/11/17-17:09:58.067 e85 Compacted 1@1 + 1@2 files => 136112 bytes
+2025/11/17-17:09:58.072 e85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-17:09:58.072 e85 Delete type=2 #159
+2025/11/17-17:09:58.072 e85 Delete type=2 #157
+2025/11/17-17:31:08.707 e85 Level-0 table #162: started
+2025/11/17-17:31:08.714 e85 Level-0 table #162: 1553233 bytes OK
+2025/11/17-17:31:08.719 e85 Delete type=0 #158
+2025/11/17-17:35:35.073 e85 Compacting 1@1 + 1@2 files
+2025/11/17-17:35:35.079 e85 Generated table #163@1: 1476 keys, 136508 bytes
+2025/11/17-17:35:35.079 e85 Compacted 1@1 + 1@2 files => 136508 bytes
+2025/11/17-17:35:35.083 e85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-17:35:35.083 e85 Delete type=2 #160
+2025/11/17-17:35:35.083 e85 Delete type=2 #162
+2025/11/17-17:44:11.737 e85 Level-0 table #165: started
+2025/11/17-17:44:11.744 e85 Level-0 table #165: 1534000 bytes OK
+2025/11/17-17:44:11.750 e85 Delete type=0 #161
+2025/11/17-17:52:34.076 e85 Compacting 1@1 + 1@2 files
+2025/11/17-17:52:34.088 e85 Generated table #166@1: 1495 keys, 153495 bytes
+2025/11/17-17:52:34.088 e85 Compacted 1@1 + 1@2 files => 153495 bytes
+2025/11/17-17:52:34.093 e85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-17:52:34.093 e85 Delete type=2 #163
+2025/11/17-17:52:34.093 e85 Delete type=2 #165
+2025/11/17-18:45:03.887 e85 Level-0 table #168: started
+2025/11/17-18:45:03.894 e85 Level-0 table #168: 1326043 bytes OK
+2025/11/17-18:45:03.899 e85 Delete type=0 #164
+2025/11/17-19:00:32.848 e84 Compacting 1@1 + 1@2 files
+2025/11/17-19:00:32.854 e84 Generated table #169@1: 1510 keys, 123333 bytes
+2025/11/17-19:00:32.854 e84 Compacted 1@1 + 1@2 files => 123333 bytes
+2025/11/17-19:00:32.859 e84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-19:00:32.859 e84 Delete type=2 #166
+2025/11/17-19:00:32.859 e84 Delete type=2 #168
+2025/11/17-20:58:34.653 e85 Level-0 table #171: started
+2025/11/17-20:58:34.661 e85 Level-0 table #171: 1526953 bytes OK
+2025/11/17-20:58:34.666 e85 Delete type=0 #167
+2025/11/17-21:10:38.687 e95 Compacting 1@1 + 1@2 files
+2025/11/17-21:10:38.693 e95 Generated table #172@1: 1548 keys, 125432 bytes
+2025/11/17-21:10:38.693 e95 Compacted 1@1 + 1@2 files => 125432 bytes
+2025/11/17-21:10:38.697 e95 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-21:10:38.697 e95 Delete type=2 #169
+2025/11/17-21:10:38.697 e95 Delete type=2 #171
+2025/11/17-21:22:27.172 e85 Level-0 table #174: started
+2025/11/17-21:22:27.177 e85 Level-0 table #174: 1038396 bytes OK
+2025/11/17-21:22:27.182 e85 Delete type=0 #170
+2025/11/17-21:22:27.183 e85 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/11/17-21:22:27.183 e85 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x01\x1f\x03\xcd\xec\xeb\x8a\xd8\x1ezB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 133920 : 1
+2025/11/17-21:22:27.183 e85 Compacting 1@1 + 1@2 files
+2025/11/17-21:22:27.187 e85 Generated table #175@1: 1365 keys, 135006 bytes
+2025/11/17-21:22:27.187 e85 Compacted 1@1 + 1@2 files => 135006 bytes
+2025/11/17-21:22:27.192 e85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-21:22:27.192 e85 Delete type=2 #174
+2025/11/17-21:22:27.192 e85 Delete type=2 #172
+2025/11/17-21:22:27.193 e85 Manual compaction at level-1 from '\x00\x0e\x01\x1f\x03\xcd\xec\xeb\x8a\xd8\x1ezB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 133920 : 1 .. (end); will stop at (end)

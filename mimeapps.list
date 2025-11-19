@@ -1,0 +1,8 @@
+[Default Applications]
+application/zip=userapp-unzip-GI18F3.desktop
+application/x-7z-compressed=userapp-7z-7DPTF3.desktop
+
+[Added Associations]
+application/zip=userapp-unzip-GI18F3.desktop;
+application/x-msdownload=wine.desktop;
+application/x-7z-compressed=userapp-7z x-7N7RF3.desktop;userapp-p7zip-3L7BG3.desktop;userapp-7z-7DPTF3.desktop;

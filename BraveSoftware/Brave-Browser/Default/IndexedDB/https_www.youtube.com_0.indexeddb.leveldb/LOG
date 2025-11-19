@@ -1,0 +1,21 @@
+2025/11/17-21:32:00.303 d2dae Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-21:32:00.303 d2dae Recovering log #173
+2025/11/17-21:32:00.303 d2dae Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000173.log 
+2025/11/17-21:35:27.728 d2dae Level-0 table #178: started
+2025/11/17-21:35:27.734 d2dae Level-0 table #178: 1622409 bytes OK
+2025/11/17-21:35:27.739 d2dae Delete type=0 #173
+2025/11/17-21:37:17.880 d2dae Compacting 1@1 + 1@2 files
+2025/11/17-21:37:17.885 d2dae Generated table #179@1: 1404 keys, 150447 bytes
+2025/11/17-21:37:17.886 d2dae Compacted 1@1 + 1@2 files => 150447 bytes
+2025/11/17-21:37:17.890 d2dae compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/17-21:37:17.890 d2dae Delete type=2 #178
+2025/11/17-21:37:17.890 d2dae Delete type=2 #175
+2025/11/18-07:23:47.711 d2dae Level-0 table #181: started
+2025/11/18-07:23:47.717 d2dae Level-0 table #181: 1379520 bytes OK
+2025/11/18-07:23:47.723 d2dae Delete type=0 #177
+2025/11/18-07:24:14.386 d2dae Compacting 1@1 + 1@2 files
+2025/11/18-07:24:14.391 d2dae Generated table #182@1: 1410 keys, 138989 bytes
+2025/11/18-07:24:14.391 d2dae Compacted 1@1 + 1@2 files => 138989 bytes
+2025/11/18-07:24:14.396 d2dae compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/18-07:24:14.396 d2dae Delete type=2 #181
+2025/11/18-07:24:14.396 d2dae Delete type=2 #179

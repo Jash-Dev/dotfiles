@@ -1,0 +1,25 @@
+2025/11/17-05:49:58.858 3d91 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-05:49:58.858 3d91 Recovering log #8
+2025/11/17-05:49:58.858 3d91 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb/000008.log 
+2025/11/17-05:49:58.858 3d91 Delete type=2 #7
+2025/11/17-05:49:58.873 3da2 Level-0 table #13: started
+2025/11/17-05:49:58.876 3da2 Level-0 table #13: 1520 bytes OK
+2025/11/17-05:49:58.881 3da2 Delete type=0 #8
+2025/11/17-05:49:58.881 3d91 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 210 : 1
+2025/11/17-05:49:58.881 3d91 Compacting 1@0 + 1@1 files
+2025/11/17-05:49:58.884 3d91 Generated table #14@0: 67 keys, 1698 bytes
+2025/11/17-05:49:58.884 3d91 Compacted 1@0 + 1@1 files => 1698 bytes
+2025/11/17-05:49:58.889 3d91 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/17-05:49:58.889 3d91 Delete type=2 #13
+2025/11/17-05:49:58.889 3d91 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 210 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/17-06:04:58.571 3d92 Level-0 table #16: started
+2025/11/17-06:04:58.574 3d92 Level-0 table #16: 1550 bytes OK
+2025/11/17-06:04:58.578 3d92 Delete type=0 #12
+2025/11/17-06:04:58.578 3d92 Delete type=2 #10
+2025/11/17-06:04:58.578 3d92 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 255 : 1
+2025/11/17-06:04:58.578 3d92 Compacting 1@0 + 1@1 files
+2025/11/17-06:04:58.581 3d92 Generated table #17@0: 79 keys, 1827 bytes
+2025/11/17-06:04:58.581 3d92 Compacted 1@0 + 1@1 files => 1827 bytes
+2025/11/17-06:04:58.586 3d92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/17-06:04:58.586 3d92 Delete type=2 #16
+2025/11/17-06:04:58.586 3d92 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 255 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

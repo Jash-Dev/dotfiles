@@ -1,0 +1,39 @@
+2025/11/17-21:29:16.016 5 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/17-21:29:16.018 5 Recovering log #216
+2025/11/17-21:29:16.018 5 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000216.log 
+2025/11/17-21:29:22.668 7 Level-0 table #220: started
+2025/11/17-21:29:22.672 7 Level-0 table #220: 26470 bytes OK
+2025/11/17-21:29:22.678 7 Delete type=0 #216
+2025/11/17-21:29:22.678 7 Compacting 4@0 + 1@1 files
+2025/11/17-21:29:22.688 7 Generated table #221@0: 606 keys, 1338577 bytes
+2025/11/17-21:29:22.688 7 Compacted 4@0 + 1@1 files => 1338577 bytes
+2025/11/17-21:29:22.693 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/17-21:29:22.693 7 Delete type=2 #213
+2025/11/17-21:29:22.693 7 Delete type=2 #211
+2025/11/17-21:29:22.693 7 Delete type=2 #215
+2025/11/17-21:29:22.693 7 Delete type=2 #220
+2025/11/17-21:29:22.693 7 Delete type=2 #217
+2025/11/17-22:42:27.660 7 Level-0 table #223: started
+2025/11/17-22:42:27.664 7 Level-0 table #223: 20032 bytes OK
+2025/11/17-22:42:27.669 7 Delete type=0 #219
+2025/11/18-07:19:09.802 7 Level-0 table #225: started
+2025/11/18-07:19:09.805 7 Level-0 table #225: 19960 bytes OK
+2025/11/18-07:19:09.810 7 Delete type=0 #222
+2025/11/18-07:21:50.245 7 Level-0 table #227: started
+2025/11/18-07:21:50.249 7 Level-0 table #227: 81039 bytes OK
+2025/11/18-07:21:50.255 7 Delete type=0 #224
+2025/11/18-21:59:20.616 7 Level-0 table #229: started
+2025/11/18-21:59:20.620 7 Level-0 table #229: 16413 bytes OK
+2025/11/18-21:59:20.625 7 Delete type=0 #226
+2025/11/18-21:59:20.625 7 Compacting 4@0 + 1@1 files
+2025/11/18-21:59:20.637 7 Generated table #230@0: 734 keys, 1341251 bytes
+2025/11/18-21:59:20.637 7 Compacted 4@0 + 1@1 files => 1341251 bytes
+2025/11/18-21:59:20.643 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/18-21:59:20.643 7 Delete type=2 #229
+2025/11/18-21:59:20.643 7 Delete type=2 #225
+2025/11/18-21:59:20.643 7 Delete type=2 #221
+2025/11/18-21:59:20.643 7 Delete type=2 #223
+2025/11/18-21:59:20.643 7 Delete type=2 #227
+2025/11/18-22:07:07.659 5 Level-0 table #232: started
+2025/11/18-22:07:07.663 5 Level-0 table #232: 26486 bytes OK
+2025/11/18-22:07:07.668 5 Delete type=0 #228
