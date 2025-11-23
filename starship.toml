@@ -1,0 +1,63 @@
+# ~/.config/starship.toml
+
+add_newline = true
+command_timeout = 1000
+
+format = """
+[󰈺](bold cyan)$directory$git_branch$git_status$cmd_duration$python$nodejs$rust$status
+$character"""
+
+# Optional "right side" (see section 3)
+right_format = """$time$battery"""
+
+[directory]
+format = "[$path]($style) "
+style = "bold blue"
+read_only = " "
+truncation_length = 3         # show at most 3 segments: ~/projects/foo
+truncate_to_repo = true       # stop truncation at repo root (nice for dev)
+
+[git_branch]
+format = "[$branch]($style) "
+style = "green"
+symbol = " "
+
+[git_status]
+format = '([ $all_status$ahead_behind ]($style))'
+style = "red"
+
+[python]
+symbol = " "
+style = "yellow"
+# only show when a virtualenv or pyproject exists
+detect_extensions = ["py"]
+detect_files = ["pyproject.toml", "requirements.txt", "setup.py"]
+
+[nodejs]
+symbol = " "
+style = "green"
+detect_extensions = ["js", "ts", "mjs", "cjs"]
+detect_files = ["package.json", "pnpm-lock.yaml", "yarn.lock"]
+
+[rust]
+symbol = " "
+style = "red"
+detect_extensions = ["rs"]
+detect_files = ["Cargo.toml"]
+
+[cmd_duration]
+min_time = 1000               # only show if cmd > 1s
+format = " [⏱ $duration]($style)"
+style = "bold yellow"
+
+[status]
+disabled = false
+symbol = " "
+format = " [$symbol$status]($style)"
+style = "bold red"
+
+[character]
+success_symbol = "[](bold green)"
+error_symbol = "[](bold red)"
+vicmd_symbol = "[](bold blue)"
+

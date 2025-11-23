@@ -1,0 +1,12 @@
+2025/11/23-10:34:23.090 6d9 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/23-10:34:23.090 6d9 Recovering log #34
+2025/11/23-10:34:23.095 6d9 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000034.log 
+2025/11/23-10:34:23.968 6d9 Level-0 table #39: started
+2025/11/23-10:34:23.974 6d9 Level-0 table #39: 1560166 bytes OK
+2025/11/23-10:34:23.981 6d9 Delete type=0 #34
+2025/11/23-10:34:33.132 6d9 Compacting 1@1 + 1@2 files
+2025/11/23-10:34:33.137 6d9 Generated table #40@1: 413 keys, 99303 bytes
+2025/11/23-10:34:33.137 6d9 Compacted 1@1 + 1@2 files => 99303 bytes
+2025/11/23-10:34:33.143 6d9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/23-10:34:33.143 6d9 Delete type=2 #36
+2025/11/23-10:34:33.143 6d9 Delete type=2 #39

@@ -1,0 +1,20 @@
+2025/11/21-17:06:16.667 c87c Creating DB /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb since it was missing.
+2025/11/21-17:06:16.676 c87c Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb/MANIFEST-000001
+2025/11/21-17:06:16.743 c87c Level-0 table #5: started
+2025/11/21-17:06:16.750 c87c Level-0 table #5: 1262 bytes OK
+2025/11/21-17:06:16.757 c87c Delete type=0 #3
+2025/11/21-17:06:16.757 c86b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/21-20:22:43.532 c87e Level-0 table #7: started
+2025/11/21-20:22:43.535 c87e Level-0 table #7: 2039 bytes OK
+2025/11/21-20:22:43.541 c87e Delete type=0 #4
+2025/11/21-20:22:43.541 c86b Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/21-21:35:48.144 c86b Level-0 table #9: started
+2025/11/21-21:35:48.147 c86b Level-0 table #9: 935 bytes OK
+2025/11/21-21:35:48.153 c86b Delete type=0 #6
+2025/11/21-21:35:48.153 c86b Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 165 : 1
+2025/11/21-21:35:48.153 c86b Compacting 1@0 + 1@1 files
+2025/11/21-21:35:48.156 c86b Generated table #10@0: 57 keys, 1591 bytes
+2025/11/21-21:35:48.156 c86b Compacted 1@0 + 1@1 files => 1591 bytes
+2025/11/21-21:35:48.161 c86b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/21-21:35:48.161 c86b Delete type=2 #9
+2025/11/21-21:35:48.161 c86b Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 165 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

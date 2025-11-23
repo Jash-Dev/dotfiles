@@ -1,0 +1,9 @@
+2025/11/23-07:44:41.015 5 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/23-07:44:41.016 5 Recovering log #28
+2025/11/23-07:44:41.018 5 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000028.log 
+2025/11/23-10:12:09.580 7 Level-0 table #32: started
+2025/11/23-10:12:09.584 7 Level-0 table #32: 27789 bytes OK
+2025/11/23-10:12:09.591 7 Delete type=0 #28
+2025/11/23-10:19:05.547 7 Level-0 table #34: started
+2025/11/23-10:19:05.551 7 Level-0 table #34: 14386 bytes OK
+2025/11/23-10:19:05.557 7 Delete type=0 #31

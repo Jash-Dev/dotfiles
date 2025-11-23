@@ -1,0 +1,25 @@
+2025/11/22-07:38:06.824 3ed572 Reusing MANIFEST /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb/MANIFEST-000001
+2025/11/22-07:38:06.824 3ed572 Recovering log #8
+2025/11/22-07:38:06.824 3ed572 Reusing old log /home/jashua/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_127.0.0.1_8188.indexeddb.leveldb/000008.log 
+2025/11/22-07:38:06.825 3ed572 Delete type=2 #7
+2025/11/22-07:38:06.838 3ed573 Level-0 table #13: started
+2025/11/22-07:38:06.841 3ed573 Level-0 table #13: 941 bytes OK
+2025/11/22-07:38:06.846 3ed573 Delete type=0 #8
+2025/11/22-07:38:06.846 3ed571 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 198 : 1
+2025/11/22-07:38:06.846 3ed571 Compacting 1@0 + 1@1 files
+2025/11/22-07:38:06.849 3ed571 Generated table #14@0: 63 keys, 1616 bytes
+2025/11/22-07:38:06.849 3ed571 Compacted 1@0 + 1@1 files => 1616 bytes
+2025/11/22-07:38:06.855 3ed571 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/22-07:38:06.855 3ed571 Delete type=2 #13
+2025/11/22-07:38:06.855 3ed571 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 198 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/22-07:38:09.861 3ed571 Level-0 table #16: started
+2025/11/22-07:38:09.864 3ed571 Level-0 table #16: 930 bytes OK
+2025/11/22-07:38:09.869 3ed571 Delete type=2 #10
+2025/11/22-07:38:09.869 3ed571 Delete type=0 #12
+2025/11/22-07:38:09.869 3ed560 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 231 : 1
+2025/11/22-07:38:09.869 3ed560 Compacting 1@0 + 1@1 files
+2025/11/22-07:38:09.872 3ed560 Generated table #17@0: 71 keys, 1706 bytes
+2025/11/22-07:38:09.872 3ed560 Compacted 1@0 + 1@1 files => 1706 bytes
+2025/11/22-07:38:09.879 3ed560 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/22-07:38:09.879 3ed560 Delete type=2 #16
+2025/11/22-07:38:09.879 3ed560 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 231 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
